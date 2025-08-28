@@ -79,14 +79,12 @@ frontpage_cards:
     button_label: ''
     button_link: ''
     rule_color: ''
-  - title: Lorem ipsum
-    content: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mollis
-      cursus est sed dapibus.
+  - content: National Bureau of Statistics Seychelles
     include: ''
     button_label: Read more
-    button_link: https://example.com
+    button_link: https://www.nbs.gov.sc
     rule_color: ''
+    title: NBS Seychelles
   - title: Nam vestibulum
     content: |
       Nam vestibulum, purus quis porttitor imperdiet, nisl sem mollis nisl, a
